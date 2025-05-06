@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.5](https://github.com/opentdf/platform/compare/sdk/v0.4.4...sdk/v0.4.5) (2025-05-06)
+
+
+### Features
+
+* **core:** Adds EC withSalt options ([#2126](https://github.com/opentdf/platform/issues/2126)) ([67b6fb8](https://github.com/opentdf/platform/commit/67b6fb8fc1263a4ddfa8ae1c8d451db50be77988))
+* **policy:** key management crud ([#2110](https://github.com/opentdf/platform/issues/2110)) ([4c3d53d](https://github.com/opentdf/platform/commit/4c3d53d5fbb6f4659155ac60d289d92ac20180f1))
+
+
+### Bug Fixes
+
+* **core:** Improves errors when under heavy load ([#2132](https://github.com/opentdf/platform/issues/2132)) ([4490a14](https://github.com/opentdf/platform/commit/4490a14db2492629e287445df26312eb3e363b81))
+
 ## [0.4.4](https://github.com/opentdf/platform/compare/sdk/v0.4.3...sdk/v0.4.4) (2025-04-28)
 
 
